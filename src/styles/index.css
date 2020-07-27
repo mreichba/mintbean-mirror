@@ -2,3 +2,19 @@
   font-family: sans-serif;
   text-align: center;
 }
+.c-camera-feed {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.mr-2 {
+  display: block;
+  margin: 10px 0 10px;
+}
+
+.buttons {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  
+}
