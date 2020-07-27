@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "/mintbean-mirror/static/css/main.d886dda5.chunk.css",
-    "main.js": "/mintbean-mirror/static/js/main.883e21cf.chunk.js",
-    "main.js.map": "/mintbean-mirror/static/js/main.883e21cf.chunk.js.map",
-    "runtime-main.js": "/mintbean-mirror/static/js/runtime-main.3610ec3b.js",
-    "runtime-main.js.map": "/mintbean-mirror/static/js/runtime-main.3610ec3b.js.map",
+    "main.js": "/mintbean-mirror/static/js/main.f6028e8b.chunk.js",
+    "main.js.map": "/mintbean-mirror/static/js/main.f6028e8b.chunk.js.map",
+    "runtime-main.js": "/mintbean-mirror/static/js/runtime-main.9f21a176.js",
+    "runtime-main.js.map": "/mintbean-mirror/static/js/runtime-main.9f21a176.js.map",
     "static/css/2.af3c1da9.chunk.css": "/mintbean-mirror/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.70539848.chunk.js": "/mintbean-mirror/static/js/2.70539848.chunk.js",
-    "static/js/2.70539848.chunk.js.map": "/mintbean-mirror/static/js/2.70539848.chunk.js.map",
+    "static/js/2.f3d6c957.chunk.js": "/mintbean-mirror/static/js/2.f3d6c957.chunk.js",
+    "static/js/2.f3d6c957.chunk.js.map": "/mintbean-mirror/static/js/2.f3d6c957.chunk.js.map",
     "index.html": "/mintbean-mirror/index.html",
-    "precache-manifest.479aaf452817da990c64cfd61472efb1.js": "/mintbean-mirror/precache-manifest.479aaf452817da990c64cfd61472efb1.js",
+    "precache-manifest.aef380b193a5294ef78bea4b279c52ba.js": "/mintbean-mirror/precache-manifest.aef380b193a5294ef78bea4b279c52ba.js",
     "service-worker.js": "/mintbean-mirror/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/mintbean-mirror/static/css/2.af3c1da9.chunk.css.map",
     "static/css/main.d886dda5.chunk.css.map": "/mintbean-mirror/static/css/main.d886dda5.chunk.css.map",
-    "static/js/2.70539848.chunk.js.LICENSE.txt": "/mintbean-mirror/static/js/2.70539848.chunk.js.LICENSE.txt",
+    "static/js/2.f3d6c957.chunk.js.LICENSE.txt": "/mintbean-mirror/static/js/2.f3d6c957.chunk.js.LICENSE.txt",
     "static/media/mintbean.png": "/mintbean-mirror/static/media/mintbean.cf18b629.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.3610ec3b.js",
+    "static/js/runtime-main.9f21a176.js",
     "static/css/2.af3c1da9.chunk.css",
-    "static/js/2.70539848.chunk.js",
+    "static/js/2.f3d6c957.chunk.js",
     "static/css/main.d886dda5.chunk.css",
-    "static/js/main.883e21cf.chunk.js"
+    "static/js/main.f6028e8b.chunk.js"
   ]
 }
