@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "alias": "masons-image-pop",
+  "name": "masons-image-pop-app",
+  "routes": [
+    {
+      "handle": "filesystem"
+    },
+    {
+      "src": ".*",
+      "dest": "/index.html"
+    }
+  ]
+}

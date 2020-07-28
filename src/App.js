@@ -10,7 +10,7 @@ const App = () => {
     <>
       <MintNav />
       <div className="App">
-        <h1 className='mt-2 mb-2'>Image POP</h1>
+        <h1>Image POP</h1>
         <CameraFeed />
       </div>
     </>

@@ -55,9 +55,9 @@ const CameraFeed = () => {
         <video ref={videoPlayer} width="680" heigh="510" />
       </div>
       <div className='buttons'>
-        <Button className='mr-2' onClick={() => turnCameraOff()}>Turn off Camera</Button>
-        <Button className='mr-2' onClick={() => turnCameraOn()}>Turn on Camera</Button>
-        <Button className='mr-2' onClick={() => takePhoto()}>Take photo!</Button>
+        <Button className='button' onClick={() => turnCameraOff()}>Turn off Camera</Button>
+        <Button className='button' onClick={() => turnCameraOn()}>Turn on Camera</Button>
+        <Button className='button' onClick={() => takePhoto()}>Take photo!</Button>
       </div>
       <div className="c-camera-feed__stage">
         <canvas className='canvas' width="680" height="510px" ref={canvas} />

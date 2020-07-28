@@ -1,8 +1,8 @@
 {
-  "name": "tutorial-27",
+  "name": "image-pop",
   "description": "This project was generated from the Mintbean react-gh-pages template using the mintbean-cli tool.",
   "version": "0.1.0",
-  "homepage": "https://zackmckenna.github.io/tutorial-27/",
+  "homepage": "https://mreichba.github.io/mintbean-mirror",
   "private": true,
   "scripts": {
     "start": "react-scripts start",
@@ -14,7 +14,7 @@
   },
   "mintbean": {
     "template": "react-gh-pages",
-    "homepage": "https://zackmckenna.github.io/tutorial-27/",
+    "homepage": "https://mreichba.github.io/mintbean-mirror",
     "scripts": {
       "deploy": "npm run deploy",
       "develop": "npm run start"
